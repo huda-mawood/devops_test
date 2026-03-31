@@ -1,0 +1,13 @@
+.env
+.env.*
+*.env
+.devops_llm_config
+.devops_state
+*.key
+*.pem
+*.p12
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
